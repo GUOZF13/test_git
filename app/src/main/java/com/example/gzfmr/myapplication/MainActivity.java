@@ -42,6 +42,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private void fetchData() {
         for(int i = 0;i<10;i++){
             pers.add("黄三爷" + i);
+			
+			
+			
+			
+			
         }
     }
 //        method 2: 使用匿名内部类
